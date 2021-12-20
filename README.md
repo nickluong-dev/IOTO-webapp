@@ -4,7 +4,13 @@ An overview of a project I contributed to during a work term at IOTO.
 ## What is the IOTO Webapp?
 IOTO focuses on collecting publicly available North American political data to use for data vizualization/manipulation. IOTO has built an API so that customers can access this data to use themselves.
 
-My team built a web application from scratch using our internal API to showoff what IOTO is capable of while also illustrating fun visual analytics and statistics. As of writing this, you can view legislator/legislature statistics, view data visualizations, compare some statistcs between legislators, search for a specific politican, and view bill statistics/information.
+My team built a web application from scratch using our internal API to showoff what IOTO is capable of while also illustrating fun visual analytics and statistics. 
+
+As of writing this, you can:
+- View legislator/legislature statistics  
+- View data visualizations  
+- Compare some statistics/information between legislators 
+- Search for a specific politican
 
 ![goverlytics_demo](https://media.giphy.com/media/dCPma1n5k6Zo5koisz/giphy.gif)
 ![goverlytics_demo](https://media.giphy.com/media/Hsu7tfSslO9vliSIcI/giphy.gif)
@@ -29,6 +35,7 @@ Working in a small team of three students, I was responsible for a multitude of 
 - Implementing login/registration using AuthO and creating a backend database for tracking user data
 - More customizable graphs for more user interaction
 - Implementing provincial data (as of now the site uses federal data only)
+- Implementing likes/dislikes/follows
 
 ## Built with
 - Javascript/Typescript
