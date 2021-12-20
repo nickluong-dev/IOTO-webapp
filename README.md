@@ -27,5 +27,7 @@ Working in a small team of three students, I was responsible for a multitude of 
 
 ## Things we didn't get to/Could've improved
 -Implementing login/registration using AuthO and creating a backend database for tracking user data
+
 -More customizable graphs for more user interaction
+
 -Implementing provincial data (as of now the site uses federal data only)
