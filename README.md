@@ -5,9 +5,7 @@ An overview of a project I contributed to during a work term at IOTO.
 IOTO focuses on collecting publicly available North American political data to use for data vizualization/manipulation. IOTO has built an API so that customers can access this data to use themselves.
 
 <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="path/to/video.mp4" type="video/mp4">
-    <source src="path/to/video.ogg" type="video/ogg">
-    <source src="path/to/video.webm" type="video/webm">
+    <source src="./goverlytics_demo.mp4" type="video/mp4">
   </video>
 
 My team built a web application from scratch using our internal API to showoff what IOTO is capable of while also illustrating fun visual analytics and statistics. 
