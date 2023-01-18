@@ -23,19 +23,19 @@ Try it out live: https://goverlytics.com/
 Working in a small team of three students, I was responsible for a multitude of things. I worked on:
 
 - Scraping politcal data for our database and API
-- Implementing legistlator/legislation pages
-- Implementing homepage/dashboard
-- Implementing news blog to display posts from medium.com
-- Implementing geolocation feature to display close by legislators
-- Implementing webcaching to improve user experience and decrease API requests
-- Implementing search feature
-- Implemented Codepipeline to streamline development pushes and deployments
+- Implemented front-end legistlator/legislation pages
+- Designed homepage/dashboard and legislator cards
+- Created blog/news pages for team to post public articles
+- Implemented geolocation feature to display closest legislators using geolocation API
+- Implemented webcaching to improve user experience and decrease API requests
+- Developed search feature for quick legislator filtering
+- Implemented CI/CD to streamline development pushes and deployments using AWS services
 
 ## Things we didn't get to/Could've improved
 - Implementing login/registration using AuthO and creating a backend database for tracking user data
 - More customizable graphs for more user interaction
 - Implementing provincial data (as of now the site uses federal data only)
-- Implementing likes/dislikes/follows
+- Implementing like/dislike/follow feature
 
 ## Built with
 - Javascript/Typescript
@@ -43,4 +43,4 @@ Working in a small team of three students, I was responsible for a multitude of 
 - TailwindCSS
 - NestJS
 - Python
-- AWS Lambda, S3, CloudFront, Beanstalk, CodePipeline
+- AWS Lambda, S3, CloudFront, Beanstalk, CodePipeline, CodeDeploy
